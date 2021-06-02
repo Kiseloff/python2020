@@ -10,4 +10,4 @@ PyPDF2==1.26.0
 query-string==2019.4.13
 requests==2.24.0
 soupsieve==2.0.1
-urllib3==1.25.9
+urllib3==1.26.5
